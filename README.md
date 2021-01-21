@@ -2,7 +2,7 @@
 
 Polar charts are pretty much the same as [radar/spider charts](https://benpitler.github.io/radar-charts-egypt-ksa), but these come from ggplot2 and I think are a little more readable. Plus they've got all those pretty colors. The below are based on a dataset that tracks executions carried out by the government of Saudia Arabia. This .csv file has approximately 700 rows, each of which contains information on a discrete individual executed in Saudi Arabia between 2014 and 2019.
 
-<img src="images/ksa-polar.png?raw=true"/>
+<img src="ksa-polar.png?raw=true"/>
 
 The axes here range from 0 to 60, and we see distinct execution spikes at certain intervals. The Saudi government executed nearly 60 people in both January 2016 and April 2019, and nearly 20 in each of August 2014, July 2017, and July 2018.
 
